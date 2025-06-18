@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Research – Hildegard Tollefsen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Research Projects</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="cv.html">CV</a>
+      <a href="research.html" class="active">Research</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="project">
+      <h2>Age-Dependent Infection in <em>Tribolium castaneum</em></h2>
+      <p><strong>Mentor:</strong> Dr. Tad Dallas &nbsp; | &nbsp; <strong>Department:</strong> Biological Sciences</p>
+      <p><strong>Funding:</strong> Magellan Scholar Grant</p>
+
+      <p>This project investigated how host age influences infection outcomes with the fungal pathogen <em>Beauveria bassiana</em> in the red flour beetle. The research found that infection prevalence decreases with beetle age, while no significant differences were observed in time to infection. These findings contribute to understanding population-level disease dynamics and pest management strategies.</p>
+
+      <ul>
+        <li><strong>Hypotheses:</strong> Infection prevalence decreases with age; time to infection varies by age.</li>
+        <li><strong>Findings:</strong> Supported hypothesis on prevalence; no distributional differences in infection timing.</li>
+        <li><strong>Presented at:</strong> USC Undergraduate Research Symposium (April 2025)</li>
+      </ul>
+
+      <a href="docs/Poster.pdf" target="_blank" class="button">View Full Poster (PDF)</a>
+      <br><br>
+      <img src="images/poster_thumbnail.jpg" alt="Research poster thumbnail" style="width:80%; max-width:600px;">
+    </section>
+  </main>
+
+  <footer>
+    <p>© Hildegard Tollefsen – <a href="mailto:tollefsenhildegard@gmail.com">tollefsenhildegard@gmail.com</a></p>
+  </footer>
+</body>
+</html>
