@@ -20,6 +20,12 @@ header {
   color: #0074D9;
   font-weight: bold;
 }
+img[src*="butterfly_shot.jpg"] {
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 section {
   max-width: 800px;
   margin: 40px auto;
