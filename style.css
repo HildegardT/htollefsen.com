@@ -21,7 +21,7 @@ header {
   font-weight: bold;
 }
 img[src*="butterfly_shot.jpg"] {
-  max-width: 200px;
+  max-width: 250px;
   height: auto;
   display: block;
   margin: 0 auto;
