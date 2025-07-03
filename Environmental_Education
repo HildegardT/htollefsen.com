@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Environmental Education & Outreach – Hildegard Tollefsen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Environmental Education & Outreach</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="cv.html">CV</a>
+      <a href="research.html">Research</a>
+      <a href="Environmental_Education.html" class="active">Teaching</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="teaching-summary">
+      <p>I am passionate about connecting young learners to the environment through inquiry-based education, hands-on experiences, and cross-disciplinary approaches. Below are some of the projects and programs I’ve led or contributed to.</p>
+    </section>
+
+    <section class="project">
+      <h2>Environmental Education Program (2025–Present)</h2>
+      <ul>
+        <li>Designed and led weekly environmental activities for grades Pre-K to 8</li>
+        <li>Integrated science, art, and outdoor exploration into core learning</li>
+        <li>Planned school-wide sustainability initiatives and field trips</li>
+      </ul>
+    </section>
+
+    <section class="project">
+      <h2>Carolina Wildlife Shelter Volunteer</h2>
+      <ul>
+        <li>Helped care for injured and orphaned native species</li>
+        <li>Educated the public on local wildlife conservation</li>
+      </ul>
+    </section>
+
+    <section class="project">
+      <h2>Scientific Illustration – LoPresti Lab</h2>
+      <ul>
+        <li>Created educational diagrams of native moths</li>
+        <li>Used in outreach, and presentations</li>
+      </ul>
+    </section>
+
+    <section class="project">
+      <h2>TAKIN Citizen Science Program</h2>
+      <ul>
+        <li>Participated in nature observation and data collection using iNaturalist</li>
+        <li>Engaged with youth in national wildlife education events</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© Hildegard Tollefsen – <a href="mailto:tollefsenhildegard@gmail.com">tollefsenhildegard@gmail.com</a></p>
+  </footer>
+</body>
+</html>
